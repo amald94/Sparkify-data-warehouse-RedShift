@@ -26,7 +26,7 @@ In this project, we will create an ETL pipeline to build a data warehouses hoste
 * <b> dwh.cfg </b> - Configuration file to add AWS credentials.
 * <b> delete_cluster.py - A script to delete the redshift cluster.
 
-### Datasets
+## Datasets
 
 You'll be working with two datasets that reside in S3. Here are the S3 links for each:
 
