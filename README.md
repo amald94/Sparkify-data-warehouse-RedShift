@@ -87,6 +87,8 @@ songplays - records in event data associated with song plays. Columns for the ta
 
 ## Analytics
 
+Run Analytics notebook to get the insights.
+
 <div align="center">
 <img src=images/result.png >
 </div>
