@@ -27,8 +27,9 @@ In this project, we will create an ETL pipeline to build a data warehouses hoste
 * <b> delete_cluster.py - A script to delete the redshift cluster.
 
 ### Datasets
+
 You'll be working with two datasets that reside in S3. Here are the S3 links for each:
 
-Song data: s3://udacity-dend/song_data
-Log data: s3://udacity-dend/log_data
-Log data json path: s3://udacity-dend/log_json_path.json
+* <b> Song data </b> - s3://udacity-dend/song_data
+* <b> Log data </b> - s3://udacity-dend/log_data
+* <b> Log data json path </b> - s3://udacity-dend/log_json_path.json
