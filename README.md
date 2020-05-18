@@ -37,8 +37,6 @@ You'll be working with two datasets that reside in S3. Here are the S3 links for
 
 ## Schema
 
-## Schema for Song Play Analysis
-
 #### Fact Table
 songplays - records in event data associated with song plays. Columns for the table:
 
