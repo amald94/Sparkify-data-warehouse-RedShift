@@ -11,7 +11,7 @@ In this project, we will create an ETL pipeline to build a data warehouses hoste
 ## Summary
 * [Project structure](#Structure)
 * [Datasets](#Datasets)
-* [Analytics](#analytics)
+* [Analytics](#Analytics)
 * [Schema](#Schema)
 * [Execute](#Execute)
 
@@ -75,7 +75,6 @@ songplays - records in event data associated with song plays. Columns for the ta
     
 <div align="center">
 <img src=images/etl.png >
-<p>Target Redshift AWS Architecture</p>
 </div>
 
 #### Delete The Cluster
@@ -84,5 +83,11 @@ songplays - records in event data associated with song plays. Columns for the ta
     
 <div align="center">
 <img src=images/delete_cluster.png >
-<p>Target Redshift AWS Architecture</p>
 </div>
+
+## Analytics
+
+<div align="center">
+<img src=images/result.png >
+</div>
+
