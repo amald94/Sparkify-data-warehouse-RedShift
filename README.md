@@ -13,7 +13,7 @@ In this project, we will create an ETL pipeline to build a data warehouses hoste
 * [Datasets](#Datasets)
 * [Analytics](#analytics)
 * [Schema](#Schema)
-* [How to Run](#How to Run)
+* [Execute](#Execute)
 
 
 #### Structure
@@ -59,4 +59,20 @@ songplays - records in event data associated with song plays. Columns for the ta
 
     start_time, hour, day, week, month, year, weekday
 
-## How to Run
+## Execute
+
+#### Create Cluster
+
+    $ python3 create_cluster.py
+
+#### Create Tables
+
+    $ python3 create_tables.py
+
+#### Load The Data
+
+    $ python3 etl.py
+    
+#### Delete The Cluster
+
+    $ python3 delete_cluster.py    
