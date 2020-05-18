@@ -24,12 +24,7 @@ In this project, we will create an ETL pipeline to build a data warehouses hoste
 * <b> etl.py </b> - A script to load data from s3 to stagging tables and then to fact and dim tables using the given dataset on S3.
 * <b> sql_queries.py </b> - A script containing sql queries.
 * <b> dwh.cfg </b> - Configuration file to add AWS credentials.
-* <b> delete_cluster.py - A script to delete the redshift cluster.
-  
-  
-## Project Overview
-
-A music streaming startup, Sparkify, has grown their user base and song database and want to move their processes and data onto the cloud. Their data resides in S3, in a directory of JSON logs on user activity on the app, as well as a directory with JSON metadata on the songs in their app.
+* <b> delete_cluster.py </b> - A script to delete the redshift cluster.
 
 ## Datasets
 
