@@ -4,7 +4,7 @@ A music streaming startup, Sparkify, has grown their user base and song database
 
 In this project, we will create an ETL pipeline to build a data warehouses hosted on Redshift. 
 
-![schema](images/redshift_target.png)
+->![schema](images/redshift_target.png)<-
 
 ## Summary
 * [Project structure](#Structure)
