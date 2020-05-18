@@ -10,6 +10,7 @@ In this project, we will create an ETL pipeline to build a data warehouses hoste
 
 ## Summary
 * [Project structure](#Structure)
+* [Datasets](#Datasets)
 * [Analytics](#analytics)
 
 
@@ -24,3 +25,10 @@ In this project, we will create an ETL pipeline to build a data warehouses hoste
 * <b> sql_queries.py </b> - A script containing sql queries.
 * <b> dwh.cfg </b> - Configuration file to add AWS credentials.
 * <b> delete_cluster.py - A script to delete the redshift cluster.
+
+### Datasets
+You'll be working with two datasets that reside in S3. Here are the S3 links for each:
+
+Song data: s3://udacity-dend/song_data
+Log data: s3://udacity-dend/log_data
+Log data json path: s3://udacity-dend/log_json_path.json
