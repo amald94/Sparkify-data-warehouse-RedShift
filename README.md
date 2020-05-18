@@ -7,6 +7,12 @@ In this project, we will create an ETL pipeline to build a data warehouses hoste
 | ![schema](images/redshift_target.png) |
 | :--: | 
 </div>
+
+<div align="center">
+<img src=images/redshift_target.png >
+<p>Perfectly balanced</p>
+</div>
+
 ## Summary
 * [Project structure](#Structure)
 * [Analytics](#analytics)
