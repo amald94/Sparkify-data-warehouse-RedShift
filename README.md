@@ -77,6 +77,7 @@ songplays - records in event data associated with song plays. Columns for the ta
 <img src=images/etl.png >
 <p>Target Redshift AWS Architecture</p>
 </div>
+
 #### Delete The Cluster
 
     $ python3 delete_cluster.py 
